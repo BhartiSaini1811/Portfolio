@@ -1,5 +1,6 @@
 {
     "liveServer.settings.port": 5501,
     "debug.allowBreakpointsEverywhere": true,
-    "files.autoGuessEncoding": true
+    "files.autoGuessEncoding": true,
+    "iis.configDir": ""
 }
