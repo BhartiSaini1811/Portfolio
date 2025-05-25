@@ -302,7 +302,10 @@
 .project img {
     margin-bottom: 44px;
     width: 20em;
+    height: 12em;
     border-radius: 18px;
+    object-fit: contain;
+   
 }
 
 .project:hover {
